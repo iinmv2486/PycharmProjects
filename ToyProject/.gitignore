@@ -1,0 +1,19 @@
+# Python 캐시 파일
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+.Python
+
+# 환경 파일
+.env
+
+# 가상 환경 폴더
+myenv/
+
+# Streamlit secrets
+Streamlit_chating/.streamlit/secrets.toml
+
+# Windows specific
+Thumbs.db
+ehthumbs.db
